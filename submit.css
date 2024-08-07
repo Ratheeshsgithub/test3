@@ -1,0 +1,36 @@
+.text {
+    text-align: center;
+}
+
+.image {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+}
+
+.somthing {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+   
+
+}
+
+.sub {
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+
+}
+
+.sub :hover {
+    background-color: chocolate;
+    color: white;
+}
+
+.word {
+    display: flex;
+}
